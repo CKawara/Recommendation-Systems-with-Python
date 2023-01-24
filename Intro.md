@@ -37,3 +37,10 @@ user profile.
   The system that for certain specifics and preferences and then provides recommendations that satisfy those conditions.
   
   The main problem is that users know full-well what to expect from the results and are rarely taken by surprise.
+
+
+### 4. Hybrid recommenders
+  Hybrid recommenders are robust systems that combine various types
+of recommender models.
+
+  Example is Netflix. When you sign in for the first time, Netflix overcomes the cold start problem of collaborative filters by using a content-based recommender, and, as you gradually start watching and rating movies, it brings its collaborative filtering mechanism into play. This is far more successful, so most practical recommender systems are hybrid in nature.
