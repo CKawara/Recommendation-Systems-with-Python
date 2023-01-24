@@ -29,3 +29,11 @@ has on particular items.
 
   Since content-based systems don't leverage the power of the community, content-based systems usually provide recommendations that are obvious.
   
+
+### 3. Knowledge-based recommenders
+  Knowledge-based recommenders are used for items that are very rarely bought. It is simply
+impossible to recommend such items based on past purchasing activity or by building a
+user profile. 
+  The system that for certain specifics and preferences and then provides recommendations that satisfy those conditions.
+  
+  The main problem is that users know full-well what to expect from the results and are rarely taken by surprise.
