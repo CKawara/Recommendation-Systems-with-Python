@@ -1,4 +1,4 @@
-# Recommendation-Systems-with-Python
+# Building various Recommendation Systems with Python
 
 In this repo I intend to ;
 
